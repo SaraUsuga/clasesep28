@@ -5,6 +5,7 @@ Ecologia y medio ambiente
 
 Integrantes del proyecto: 
 SARA USUGA VANESSA GRANDA LUISA GALLEGO CAMILA GOMEZ
+
 Problema a resolver: El problema es que muchos de los estudiantes no le ven
 importancia a cuidar el medio ambiente ni nuestro
 entorno. Muchos de ellos tiran las basuras al suelo, no
